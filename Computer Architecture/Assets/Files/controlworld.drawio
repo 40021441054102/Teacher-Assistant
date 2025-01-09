@@ -1,0 +1,37 @@
+<mxfile host="Electron" modified="2024-12-01T21:26:27.010Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="7O4fPZpEHygFZ1DNx1fm" version="24.6.1" type="device">
+  <diagram name="Page-1" id="EsQeMsWOzL1JdtdZpXEY">
+    <mxGraphModel dx="789" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dUth_oC2DTvi_c6odPAl-1" value="&lt;font color=&quot;#000000&quot;&gt;F&lt;sub style=&quot;font-size: 18px;&quot;&gt;1&lt;/sub&gt;&lt;/font&gt;&lt;div style=&quot;line-height: 40%;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;3 bit&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="300" y="640" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUth_oC2DTvi_c6odPAl-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="390" y="520" width="20" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="dUth_oC2DTvi_c6odPAl-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="595" y="515" width="20" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="dUth_oC2DTvi_c6odPAl-13" value="بخش عملیاتی" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="580" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dUth_oC2DTvi_c6odPAl-14" value="بخش حرکتی" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="565" y="580" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dUth_oC2DTvi_c6odPAl-15" value="&lt;font color=&quot;#000000&quot;&gt;CD&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;color: rgb(240, 240, 240); line-height: 7.2px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#000000&quot;&gt;2 bit&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#0F0F0F;" vertex="1" parent="1">
+          <mxGeometry x="500" y="640" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUth_oC2DTvi_c6odPAl-16" value="&lt;font color=&quot;#000000&quot;&gt;BR&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;color: rgb(240, 240, 240); line-height: 7.2px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#000000&quot;&gt;1 bit&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#0F0F0F;" vertex="1" parent="1">
+          <mxGeometry x="570" y="640" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUth_oC2DTvi_c6odPAl-17" value="&lt;font color=&quot;#000000&quot;&gt;AD&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;color: rgb(240, 240, 240); line-height: 7.2px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#000000&quot;&gt;5 bit&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#0F0F0F;" vertex="1" parent="1">
+          <mxGeometry x="640" y="640" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUth_oC2DTvi_c6odPAl-18" value="&lt;font color=&quot;#000000&quot;&gt;F&lt;sub style=&quot;font-size: 18px;&quot;&gt;1&lt;/sub&gt;&lt;/font&gt;&lt;div style=&quot;line-height: 40%;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;2 bit&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="400" y="640" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
