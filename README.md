@@ -4,9 +4,8 @@ Teacher Assistant Classes and Stuffs
 ## Classes
 * Computer Architecture
   <div align="center">
-    <img src="https://github.com/40021441054102/Teacher-Assistant/blob/main/Computer%20Architecture/Class%201/Exercises/1/ex01.svg" width="27%"/>
-    <img src="https://github.com/40021441054102/Teacher-Assistant/blob/main/Computer%20Architecture/Class%201/Exercises/2/ex02.svg" width="27%"/>
-    <img src="https://github.com/40021441054102/Teacher-Assistant/blob/main/Computer%20Architecture/Class%202/Exercises/1/ex03.svg" width="27%"/>
+    <img src="./Computer%20Architecture/online_class.jpg" width="27%"/>
+    <img src="./Computer%20Architecture/Classes/Class%201/Exercises/2/ex02.svg" width="27%"/>
   </div>
 
 ## Assists
